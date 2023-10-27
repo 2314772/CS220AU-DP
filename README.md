@@ -29,6 +29,8 @@ Instructions on using this GitHub repository as a template for your assignment w
 5. ... 
 
 ## Log
+2023-10-27 learning about project management. focusing on keywords (digital identities, existential risks) and beginning to apply these to a potential research question
+
 2023-10-20 set up website and Github profile 
 
 2023-10-13 introduction to the module, focusing on digital identities 
