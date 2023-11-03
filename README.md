@@ -27,9 +27,12 @@ Instructions on using this GitHub repository as a template for your assignment w
 3. read through project management and content management aspects of the website
 4. existential risks interdisciplinary literature review
 5. prepare for presentation (10/11/2023, next friday)
+6. add image/photo of mindmap 
 
 
 ## Log
+2023-11-03 content production seminar, beginning to think about presentation concepts 
+
 2023-11-02 coming up with and brainstormimg/mindmapping ideas for my research question
 
 2023-10-27 learning about project management. focusing on keywords (digital identities, existential risks) and beginning to apply these to a potential research question
