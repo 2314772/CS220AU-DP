@@ -22,11 +22,12 @@ Once the above items are completed, fill out the `checklist.md` file, download i
 Instructions on using this GitHub repository as a template for your assignment will be provided in class. Seek clarification if anything is unclear.
 
 ## Tasks
-1. fork this repository
-2. activate GitHub Pages to generate a website from the files
-3. familiarize yourself with Markdown language and modify the `index.md` file
-4. continuously update the Tasks and Log headings to reflect your progress
-5. ... 
+1. continuously update the Tasks and Log headings to reflect your progress
+2. draft research question ideas
+3. read through project management and content management aspects of the website
+4. existential risks interdisciplinary literature review
+5. prepare for presentation (10/11/2023, next friday)
+
 
 ## Log
 2023-11-02 coming up with and brainstormimg/mindmapping ideas for my research question
