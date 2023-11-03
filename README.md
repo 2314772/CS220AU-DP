@@ -29,6 +29,8 @@ Instructions on using this GitHub repository as a template for your assignment w
 5. ... 
 
 ## Log
+2023-11-02 coming up with and brainstormimg/mindmapping ideas for my research question
+
 2023-10-27 learning about project management. focusing on keywords (digital identities, existential risks) and beginning to apply these to a potential research question
 
 2023-10-20 set up website and Github profile 
