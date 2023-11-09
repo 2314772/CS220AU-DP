@@ -1,7 +1,7 @@
 # CS220AU Digital Portfolio
 
 ## Overview
-The goal of this GitHub repository is to serves as a template for the [CS220AU](https://navigatingthedigitalworld.com/docs/cs220au) assignment. It demonstrates minimalistic approaches to:
+This GitHub repository serves as a template for the [CS220AU](https://navigatingthedigitalworld.com/docs/cs220au) assignment. It demonstrates minimalistic approaches to:
 
 - project management using this `README.md` file, organized under the Overview, Tasks, and Log headings
 - web hosting through [GitHub Pages](https://pages.github.com/)
@@ -19,7 +19,6 @@ Your submitted portfolio should include the following components, along with the
 
 Once the above items are completed, fill out the `checklist.md` file, download it, and submit on FASER.
 
-Instructions on using this GitHub repository as a template for your assignment will be provided in class. Seek clarification if anything is unclear.
 
 ## Tasks
 1. continuously update the Tasks and Log headings to reflect your progress
@@ -31,6 +30,10 @@ Instructions on using this GitHub repository as a template for your assignment w
 
 
 ## Log
+2023-11-08 
+
+2023-11-05 began thinking about presentation, started making a powerpoint
+
 2023-11-03 content production seminar, beginning to think about presentation concepts 
 
 2023-11-02 coming up with and brainstormimg/mindmapping ideas for my research question
