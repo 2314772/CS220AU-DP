@@ -30,7 +30,6 @@ Once the above items are completed, fill out the `checklist.md` file, download i
 
 
 ## Log
-2023-11-08 
 
 2023-11-05 began thinking about presentation, started making a powerpoint
 
