@@ -5,9 +5,9 @@
 Keywords: digital identities, existential risks, Covid-19, pandemic, social media, personality traits, introversion, neuroticism, extraversion, psychology
 
 ## Introduction
-[This](checklist.md) is an internal link to another page on your site. 
+[This](assessement.md) is an internal link to another page on my site. 
 
-And [this](https://duckduckgo.com/?q=existential+risks&t=brave&ia=web&iai=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdzlxU3g7hUY) is an external link to web page on another website. 
+And [this](https://navigatingthedigitalworld.com) is an external link to the CS220 website. 
 
 ## Main body 
 Below you see an example of embedding an image that is found in this repository's assets/img folder: 
