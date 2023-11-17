@@ -28,7 +28,7 @@ Once the above items are completed, fill out the `checklist.md` file, download i
 
 
 ## Log
-2023-11-10 did my presentation and gained feeedback about my research question ideas as well
+2023-11-10 listened to other peers' presentations and listened to their feedback. Then did my own presentation and gained feeedback about it and specifically my research question ideas as well. I want to focus on different personality traits use of social media, and how this changed during the Covid-19 pandemic
 
 2023-11-05 began thinking about presentation, started making a powerpoint
 
