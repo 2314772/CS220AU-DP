@@ -5,7 +5,7 @@
 Keywords: digital identities, existential risks, Covid-19, pandemic, social media, personality traits, introversion, neuroticism, extraversion, psychology
 
 ## Introduction
-[This](assessement.md) is an internal link to another page on my site. 
+[This](assessement.md) is an internal link to another page on my site - the assessment criteria. 
 
 And [this](https://navigatingthedigitalworld.com) is an external link to the CS220 website. 
 
