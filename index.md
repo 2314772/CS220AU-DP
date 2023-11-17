@@ -1,4 +1,4 @@
-# Title
+# Covid-19 and the impact it had on the use of social media 
 Use [Markdown language](https://guides.github.com/features/mastering-markdown/) to add information to your website. 
 
 ## Hyperlinks
