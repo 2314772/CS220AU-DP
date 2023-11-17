@@ -22,14 +22,13 @@ Once the above items are completed, fill out the `checklist.md` file, download i
 
 ## Tasks
 1. continuously update the Tasks and Log headings to reflect your progress
-2. draft research question ideas
-3. read through project management and content management aspects of the website
-4. existential risks interdisciplinary literature review
-5. prepare for presentation (10/11/2023, next friday)
-6. add image/photo of mindmap 
+2. read through project management and content management aspects of the website
+3. existential risks interdisciplinary literature review
+4. add image/photo of mindmap 
 
 
 ## Log
+2023-11-10 did my presentation and gained feeedback about my research question ideas as well
 
 2023-11-05 began thinking about presentation, started making a powerpoint
 
