@@ -24,11 +24,12 @@ Once the above items are completed, fill out the `checklist.md` file, download i
 1. continuously update the Tasks and Log headings to reflect your progress
 2. read through content management aspects of the website
 3. existential risks interdisciplinary literature review
-4. add image/photo of mindmap 
+4. add image/photo of mindmap
+5. write the first draft of my introduction to the essay
 
 
 ## Log
-2023-12-01
+2023-12-01 spoke about my progress so far, and talked about targets for next week (INTRODUCTION!!)
 
 2023- 11-30 read through the module outline and assessment criteria to recap what i need to do, and how i intend to go about doing so. 
 
