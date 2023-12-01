@@ -22,12 +22,22 @@ Once the above items are completed, fill out the `checklist.md` file, download i
 
 ## Tasks
 1. continuously update the Tasks and Log headings to reflect your progress
-2. read through project management and content management aspects of the website
+2. read through content management aspects of the website
 3. existential risks interdisciplinary literature review
 4. add image/photo of mindmap 
 
 
 ## Log
+2023-12-01
+
+2023- 11-30 read through the module outline and assessment criteria to recap what i need to do, and how i intend to go about doing so. 
+
+2023-11-28 read through 'project management' aspect of website. Thinking about gathering more data, as well as what I'm going to do in order to create content for my website. 
+
+2023-11-24 reading week, no class
+
+2023-11-17 classwork; everyone was following the same instructions to test out and start building up our Github 'index' files. Learnt how to embed photos too.
+
 2023-11-10 listened to other peers' presentations and listened to their feedback. Then did my own presentation and gained feeedback about it and specifically my research question ideas as well. I want to focus on different personality traits use of social media, and how this changed during the Covid-19 pandemic
 
 2023-11-05 began thinking about presentation, started making a powerpoint
@@ -37,6 +47,8 @@ Once the above items are completed, fill out the `checklist.md` file, download i
 2023-11-02 coming up with and brainstormimg/mindmapping ideas for my research question
 
 2023-10-27 learning about project management. focusing on keywords (digital identities, existential risks) and beginning to apply these to a potential research question
+
+2023-10-24 experimenting with Markdown language
 
 2023-10-20 set up website and Github profile 
 
