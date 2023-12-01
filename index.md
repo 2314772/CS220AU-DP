@@ -13,6 +13,8 @@ And [this](https://navigatingthedigitalworld.com) is an external link to the CS2
 
 ![Photo of a sketch incorporating covid-19 and social media usage.](assets/img/visuals-idbBOa-MQ-I-unsplash.jpg)
 
+This photo links to the predominant theme of social media holding so much power that it is becoming overhwlming and controlling, in terms of how we think, as well as taking over our lives so much it begins to impact our sleep schedules and internal thought processes. 
+
 Photo by <a href="https://unsplash.com/@visuals?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">visuals</a> on <a href="https://unsplash.com/photos/white-and-black-cat-sketch-idbBOa-MQ-I?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>  
 
 Below you see an example of embedding an image that is found in another repository:
@@ -25,5 +27,3 @@ Below you see an example of embedding an image that is found in another reposito
 
 ## References:
 Make sure you check out the [Markdown language](https://guides.github.com/features/mastering-markdown/) guide. 
-
-
