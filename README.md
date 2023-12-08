@@ -24,8 +24,8 @@ Once the above items are completed, fill out the `checklist.md` file, download i
 1. continuously update the Tasks and Log headings to reflect your progress
 2. read through content management aspects of the website
 3. existential risks interdisciplinary literature review
-4. add image/photo of mindmap
-5. write the first draft of my introduction to the essay
+4. add image/photo of mindmap to read me file
+5. write the completed first draft of my introduction to the essay
 
 
 ## Log
