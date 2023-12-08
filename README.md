@@ -29,6 +29,8 @@ Once the above items are completed, fill out the `checklist.md` file, download i
 
 
 ## Log
+2023-12-07 started a first draft for my introduction 
+
 2023-12-01 spoke about my progress so far, and talked about targets for next week (INTRODUCTION!!)
 
 2023- 11-30 read through the module outline and assessment criteria to recap what i need to do, and how i intend to go about doing so. 
