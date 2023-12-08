@@ -11,7 +11,7 @@ Photo by <a href="https://unsplash.com/@visuals?utm_content=creditCopyText&utm_m
 
 ## Introduction
 
-Covid-19 had both a detrimental short-term and long-term impact on every individual on the planet; however the magnitude of the effects obviously differed from person to person. Different peoples’ presence on digital platforms may have varied over the course of the pandemic. It could have become more prevalent in some cases, or could have declined drastically. Either way, personality types and character traits must have had an influence over certain coping mechanisms and the way people chose to live in lockdown and this article is going to explore that idea further.
+Covid-19 has had both a detrimental short-term and long-term impact on every individual on the planet; however, the magnitude of the effects have obviously differed from person to person. Different peoples’ presence on digital platforms may have varied over the course of the pandemic. It could have become more prevalent in some cases, or could have declined drastically. Either way, personality types and character traits must have had an influence over certain coping mechanisms and the way people chose to live in lockdown and this article is going to explore that idea further.
 
 ## Main body 
 
