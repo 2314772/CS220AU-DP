@@ -1,8 +1,15 @@
 # Covid-19 and its effects on social media usage
 
+## An investigation into how digital identities were impacted by the world's largest psychological experiment: Coronavirus 
+
 17 Nov 2023
 
-Keywords: digital identities, existential risks, Covid-19, pandemic, social media, personality traits, introversion, neuroticism, extraversion, psychology
+Keywords: digital identities, existential risks, Covid-19, pandemic, social media, personality types, character traits, introversion, neuroticism, extraversion, psychology
+
+![Photo of a sketch incorporating covid-19 and social media usage.](assets/img/visuals-idbBOa-MQ-I-unsplash.jpg)
+This photo links to the predominant theme of social media holding so much power that it is becoming overhwlming and controlling, in terms of how we think, as well as taking over our lives so much it begins to impact our sleep schedules and internal thought processes. 
+
+Photo by <a href="https://unsplash.com/@visuals?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">visuals</a> on <a href="https://unsplash.com/photos/white-and-black-cat-sketch-idbBOa-MQ-I?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>  
 
 ## Introduction
 
