@@ -29,7 +29,11 @@ Once the above items are completed, fill out the `checklist.md` file, download i
 
 
 ## Log
-2023-12-07 started a first draft for my introduction 
+2023-12-14 made an in depth mindmap of ideas surrounding covid-19, personality types and social media
+
+2023-12-11 found some research papers and articles to support my assignment 
+
+2023-12-07 weekly seminar, gained feedback and next steps for my assignment. started a first draft for my introduction
 
 2023-12-01 spoke about my progress so far, and talked about targets for next week (INTRODUCTION!!)
 
