@@ -29,7 +29,9 @@ Once the above items are completed, fill out the `checklist.md` file, download i
 
 
 ## Log
-2023-12-14 made an in depth mindmap of ideas surrounding covid-19, personality types and social media
+2023-12-14 started working on a second draft for my introduction 
+
+2023-12-13 made an in depth mindmap of ideas surrounding covid-19, personality types and social media
 
 2023-12-11 found some research papers and articles to support my assignment 
 
