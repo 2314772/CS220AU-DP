@@ -19,9 +19,12 @@ This essay delves into the psychological impacts of the pandemic on social media
 
 ## Main body 
 
+One approach that might help us comprehend and visualise digital identities is the ‘Visitors and Residents map’ devised by David White (White & Corun, 2017). It is based upon the reasons people interact with the internet, and individuals’ personal online presence. The two categories featured on the map are visitor mode, and resident mode; as well as being dependent on us carrying out the actions in a personal or professional way. When we are in visitor mode, we are not leaving any trace of our presence behind, whereas, when we are in resident mode, a social trace is left and even when we log off the internet, our online presence remains. An individual's many social media accounts, log in credentials, and entitlements might make up their digital presence.
+
 ![Photo of my personal visitors and residents map.](assets/img/vrmappersonal.png)
 
 Photo by me.
+
 
 
 ## Conclusion 
