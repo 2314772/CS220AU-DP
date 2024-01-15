@@ -21,7 +21,7 @@ This essay delves into the psychological impacts of the pandemic on social media
 
 ![Photo of my personal visitors and residents map.](assets/img/vrmappersonal.png)
 
-Photo by <a href="https://unsplash.com/@visuals?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">visuals</a> on <a href="https://unsplash.com/photos/white-and-black-cat-sketch-idbBOa-MQ-I?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>  
+Photo by me.
 
 
 ## Conclusion 
