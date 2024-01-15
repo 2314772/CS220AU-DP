@@ -19,6 +19,11 @@ This essay delves into the psychological impacts of the pandemic on social media
 
 ## Main body 
 
+![Photo of my personal visitors and residents map.](assets/img/visuals-idbBOa-MQ-I-unsplash.jpg)
+
+Photo by <a href="https://unsplash.com/@visuals?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">visuals</a> on <a href="https://unsplash.com/photos/white-and-black-cat-sketch-idbBOa-MQ-I?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>  
+
+
 ## Conclusion 
 
 [This](assessement.md) is an internal link to another page on my site - the assessment criteria. 
