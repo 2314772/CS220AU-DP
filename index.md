@@ -29,7 +29,7 @@ VR map produced by myself using PowerPoint.
 
 ## Personality Types
 
-![Photo of a girl in a field, edited so there are 3 of her and she is transparent, in shades of pink and green.](assets/img/visuals-idbBOa-MQ-I-unsplash.jpg)
+![Photo of a girl in a field, edited so there are 3 of her and she is transparent, in shades of pink and green.](assets/img/personality.jpg)
 
 ## Conclusion 
 
