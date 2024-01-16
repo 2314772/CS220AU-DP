@@ -19,7 +19,7 @@ Covid-19 has had both a detrimental short-term and long-term impact on every ind
 
 ## Digital Identities: Visitors and Residents 
 
-One approach that might help us comprehend and visualise digital identities is the ‘Visitors and Residents map’ (VR map) devised by David White (White & Le Cornu, 2017). It is based upon the reasoning behind people interacting with the internet, and individuals’ personal online presence. The two categories featured on the map are ‘visitor mode’ and ‘resident mode’; as well as being dependent on us carrying out the actions in a ‘personal’ or ‘professional’ way. When we are in visitor mode, we are not leaving any trace of our presence behind, whereas, when we are in resident mode, a social trace is left and even when we log off the internet, our online presence remains. An individual's many social media accounts, log in credentials, and entitlements are a few examples of what could potentially contribute to their digital identity. Below is my own personal VR map - highlighting all areas I use the most in my day-to-day life at this current moment in time.
+An individual's many social media accounts, log in credentials, and entitlements are a few examples of what could potentially contribute to their digital identity. One approach that might help us comprehend and visualise digital identities is the ‘Visitors and Residents map’ (VR map) devised by David White (White & Le Cornu, 2017). It is based upon the reasoning behind people interacting with the internet, and individuals’ personal online presence. The two categories featured on the map are ‘visitor mode’ and ‘resident mode’; as well as being dependent on us carrying out the actions in a ‘personal’ or ‘professional’ way. When we are in visitor mode, we are not leaving any trace of our presence behind, whereas, when we are in resident mode, a social trace is left and even when we log off the internet, our online presence remains. Below is my own personal VR map - highlighting all areas I use the most in my day-to-day life at this current moment in time.
 
 ![Photo of my personal visitors and residents map.](assets/img/vrmappersonal.png)
 
@@ -27,16 +27,31 @@ VR map produced by myself using PowerPoint.
 
 ## Existential Risks
 
+-	Define 
+-	Covid poses as a threat 
+-	Why 
+-	Pandemic disease – natural origin – unpredictable 
+
 ## Personality Types
 
 ![Photo of a girl in a field, edited so there are 3 of her and she is transparent, in shades of pink and green.](assets/img/personality.jpg)
 
+Photo by <a href="https://unsplash.com/@ohamko?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Matúš Kovačovský</a> on <a href="https://unsplash.com/photos/sephia-photography-of-person-eIvLuyDjCQI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+
+Personality types are a means to categorise and classify the characteristic patterns of thoughts, feelings, and behaviours that make each individual unique. There are various models and theories of personality, with each offering a different perspective on how to understand and categorize these traits. According to Eysenck (1947), the overall personality can be broken down into extraversion/introversion and neuroticism/stability - and psychoticism/normality, which was later added as a third dimension in 1966. Extraverts frequently exhibit impulsivity, optimism and carelessness; they are also more likely to take risks and be more outgoing and energetic. On the other hand, introverts are more reserved and calmer, and tend to keep to themselves a lot more. They are often readily in control of their emotions, and have a preference for smaller social gatherings. A highly neurotic person would likely be susceptible to overreacting and more easily inclined to become irritated, stressed or anxious. Whereas, a stable person generally maintains composure and rationality. Psychoticism is constituted by an inability to empathise and potentially engage in anti-social behaviour. It has also been linked to high levels of testosterone. 
+
+The Covid-19 pandemic triggered a personal reassessment of the connections between the development of our digital identities and psychological coping methods during the multiple lockdowns we experienced. As individuals navigated the difficulties of isolation, and uncertainty of what the future holds, their unique personality traits played a crucial role in shaping how they responded to these circumstances. The intricate relationship between personality and the evolution of digital identities during the pandemic led to many research studies being conducted. Effectively using your digital identity on social media during the COVID-19 pandemic involves a combination of empathy, authenticity, and responsible communication.
+
+-	How have perceptions of DIs and their links to ERs changed over time, particularly in response to global events?
+-	Can popular culture influence the development and use of DIs to communicate ERs more effectively, and if so, how?
+-	What are the links between DIs and misinformation, and how can this connection escalate ERs?
+
 ## Conclusion 
 
-[This](assessement.md) is an internal link to another page on my site - the assessment criteria. 
-
-And [this](https://navigatingthedigitalworld.com) is an external link to the CS220 website. 
-
+-	Based on what I have learned while doing the research for this paper these are my recommendations for teachers and students…
 
 ## References:
 eMarketer. "Average daily time spent on social networks by users in the United States from 2018 to 2022 (in minutes)." Chart. March 11, 2021. Statista. Accessed January 16, 2024. https://www.statista.com/statistics/1018324/us-users-daily-social-media-minutes/
+
+Eysenck, H. J. (1947). Dimensions of personality. Kegan Paul.
+  
