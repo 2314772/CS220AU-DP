@@ -1,9 +1,8 @@
 Coursework title: CS220AU Digital Portfolio  
 Student Registration Number: 2314772
-GitHub repository URL: <!-- add the URL of your repository, not the URL of your website -->  
+GitHub repository URL: (https://github.com/2314772/CS220AU-DP)
 
 ## Checklist
-<!-- complete the checklist below by simply replacing the space with an 'x' as seen in the first checkpoint below --> 
 
 ### General
 I have ensured that:
@@ -20,7 +19,7 @@ In the `assessment.md` file:
 
 - [x] I have reviewed the marking rubric
 - [ ] I completed my self-assessment table and summarized my progress in around a 250-word paragraph
-- [ ] I filled out my peer-assessment table and added around 250-word feedback provided by a classmate in my group
-- [ ] I have provided feedback for at least one student in my group after reviewing the marking rubric
+- [x] I filled out my peer-assessment table and added around 250-word feedback provided by a classmate in my group
+- [x] I have provided feedback for at least one student in my group after reviewing the marking rubric
 
-The student registration number(s) of the student(s) I provided feedback for is/are: <!-- add student number --> 
+The student registration number(s) of the student(s) I provided feedback for is/are: 2208272
