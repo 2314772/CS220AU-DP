@@ -34,25 +34,31 @@ The following rubric provides a detailed breakdown of the assessment criteria fo
 
 
 ## Self-assessment
-Using the marking rubric, I've assessed my own progress: <!-- move the symbols in the table below -->
+Using the marking rubric, I've assessed my own progress: 
 
 | Criterion | 40- | 40+ | 50+ | 60+ | 70+ | 
 |-----------|:---:|:---:|:---:|:---:|:---:|
-| 1.1       |     |     |     |     |     |
+| 1.1       |     |     |     |  o  |     |
 | 1.2       |     |     |     |  o  |     |
-| 2.1       |     |     |  o  |     |     |
+| 2.1       |     |     |     |     |  o  |
 | 2.2       |     |     |     |  o  |     |
-| 3.1       |     |  o  |     |     |     |
+| 3.1       |     |     |     |  o  |     |
 
 ## Peer-assessment
-Another student in my group provided feedback on my work as follows: <!-- move the symbols in the table below -->
+Another student in my group provided feedback on my work as follows: 
 
 | Criterion | 40- | 40+ | 50+ | 60+ | 70+ | 
 |-----------|:---:|:---:|:---:|:---:|:---:|
-| 1.1       |     |     |  o  |     |     |
-| 1.2       |     |     |     |  o  |     |
-| 2.1       |     |     |  o  |     |     |
-| 2.2       |     |     |     |  o  |     |
-| 3.1       |     |  o  |     |     |     |
+| 1.1       |     |     |     |     |  o  |
+| 1.2       |     |     |     |     |  o  |
+| 2.1       |     |     |     |     |  o  |
+| 2.2       |     |     |     |     |  o  |
+| 3.1       |     |     |     |     |  o  |
 
-Feedback given by: <!-- add student number and date -->
+This article has great usage of real-world data, and the content is highly relevant. The website’s structure is very clear, and effective communication of ideas and focus of each section helps follow the logical flow. It has an excellent overall view; it’s nice that a lot of images were used, and graphs make it easier to follow the information given. There are a good amount of references to back up points. And the last sentence of this work makes a good ending. 
+It could benefit from a bit more elaboration on the topic of personality types and their connection to the COVID-19 pandemic. 
+And I saw that it might be good to change the reference format (digital identities paragraph): David White (White & Le Cornu, 2017) - it’s better to use both names before brackets and only the year in them.
+And in references: change places of Worldometer and Van Hoof papers.
+Overall, it is a well-researched and thoughtful essay. With some refinement in the introduction, grammar, and visual aids, the work could be even more impactful.
+
+Feedback given by: 2208272 (January 17, 2023)
