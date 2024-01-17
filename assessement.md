@@ -1,6 +1,6 @@
 # Self- and peer-assessment
 ## Marking criteria
-### General marking criteria 
+### General marking criteria
 
 | Score | Grade | Rating | Description |
 |-------|-------|--------|-------------|
