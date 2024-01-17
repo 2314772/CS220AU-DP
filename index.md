@@ -4,7 +4,7 @@
 
 **Keywords:** digital identities, existential risks, Covid-19, pandemic, social media, personality types, character traits, introversion, neuroticism, extraversion, psychology.
 
-![Coronavirus particle.](assets/img/personality.jpg)
+![Coronavirus particle.](assets/img/covidblob.jpg)
 
 Photo by <a href="https://unsplash.com/@fusion_medical_animation?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Fusion Medical Animation</a> on <a href="https://unsplash.com/photos/visualization-of-the-coronavirus-causing-covid-19-rnr8D3FNUNY?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
