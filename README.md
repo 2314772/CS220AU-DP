@@ -1,34 +1,43 @@
 # CS220AU Digital Portfolio
 
 ## Overview
-This GitHub repository serves as a template for the [CS220AU](https://navigatingthedigitalworld.com/docs/cs220au) assignment. It demonstrates minimalistic approaches to:
+Title: Covid-19 and its drastic effects on society
+An investigation into how our digital identities were impacted by the world's largest psychological experiment: Coronavirus, and how different personalities coped with lockdown.
 
-- project management using this `README.md` file, organized under the Overview, Tasks, and Log headings
-- web hosting through [GitHub Pages](https://pages.github.com/)
-- web design with [Markdown language](https://guides.github.com/features/mastering-markdown/)
-- self- and peer-assessment via the `assessment.md` and `checklist.md` files
-
-The URL for the website can be located in the sidebar, under the 'About' section. The homepage content is sourced from the `index.md` file.
+The URL for the website is located in the sidebar, under the 'About' section. 
 
 ### Portfolio Items
-Your submitted portfolio should include the following components, along with their respective contribution to your overall mark:
+My submitted portfolio includes the following components:
 
-1. **website** (80%): explores your chosen research question across one or multiple webpages
+1. **website** (80%): explores my chosen research question across one webpage
 2. **self- and peer-assessment** (10%): utilizes the `assessment.md` file
-3. **portfolio overview** (10%): provides a succinct description of your portfolio, along with a list of tasks to do (Tasks) and those already completed (Log) in this `README.md` file
+3. **portfolio overview** (10%): provides a succinct description of my portfolio, along with a list of tasks to do (Tasks) and those already completed (Log) in this `README.md` file
 
-Once the above items are completed, fill out the `checklist.md` file, download it, and submit on FASER.
+Fill out the `checklist.md` file, download it, and submit on FASER.
 
 
 ## Tasks
-1. continuously update the Tasks and Log headings to reflect your progress
-2. read through content management aspects of the website
-3. existential risks interdisciplinary literature review
-4. add image/photo of mindmap to read me file
-5. write the completed first draft of my introduction to the essay
-
+1. continuously update the Tasks and Log headings to reflect my progress
 
 ## Log
+202-01-17 uploaded assignment to faser
+
+2024-01-16 complete peer and self assessment (assessment file)
+
+2024-01-11 fill in checklist file
+
+2024-01-06 found supporting images 
+
+2024-01-03 wrote the discussion and conclusion sections of my essay, and did the references
+
+2023-12-30 wrote the digital identities, existential risks and personality types sections of my essay
+
+2023-12-28 wrote the second draft of my introduction
+
+2023-12-27 wrote the completed first draft of my introduction to the essay
+
+2023-12-20 read through content management aspects of the website
+
 2023-12-14 started working on a second draft for my introduction 
 
 2023-12-13 made an in depth mindmap of ideas surrounding covid-19, personality types and social media
