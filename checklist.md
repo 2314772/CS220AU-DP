@@ -1,5 +1,5 @@
 Coursework title: CS220AU Digital Portfolio  
-Student Registration Number: <!-- add your student registration number -->   
+Student Registration Number: 2314772
 GitHub repository URL: <!-- add the URL of your repository, not the URL of your website -->  
 
 ## Checklist
@@ -18,7 +18,7 @@ I have ensured that:
 ### Self- and peer-assessment
 In the `assessment.md` file:
 
-- [ ] I have reviewed the marking rubric
+- [x] I have reviewed the marking rubric
 - [ ] I completed my self-assessment table and summarized my progress in around a 250-word paragraph
 - [ ] I filled out my peer-assessment table and added around 250-word feedback provided by a classmate in my group
 - [ ] I have provided feedback for at least one student in my group after reviewing the marking rubric
