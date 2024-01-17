@@ -39,10 +39,6 @@ Statista, 2023.
 
 ## Personality Types
 
-![Photo of a girl in a field, edited so there are 3 of her and she is transparent, in shades of pink and green.](assets/img/personality.jpg)
-
-Photo by <a href="https://unsplash.com/@ohamko?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Matúš Kovačovský</a> on <a href="https://unsplash.com/photos/sephia-photography-of-person-eIvLuyDjCQI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
-
 Personality types are a means to categorise and classify the characteristic patterns of thoughts, feelings, and behaviours that make each individual unique. There are various models and theories of personality, with each offering a different perspective on how to understand and categorize these traits. According to Eysenck (1947), the overall personality can be broken down into extraversion/introversion and neuroticism/stability - and psychoticism/normality, which was later added as a third dimension in 1966. Extraverts frequently exhibit impulsivity, optimism and carelessness; they are also more likely to take risks and be more outgoing and energetic. On the other hand, introverts are more reserved and calmer, and tend to keep to themselves a lot more. They are often readily in control of their emotions, and have a preference for smaller social gatherings. A highly neurotic person would likely be susceptible to overreacting and more easily inclined to become irritated, stressed or anxious. Whereas, a stable person generally maintains composure and rationality. Psychoticism is constituted by an inability to empathise and potentially engage in anti-social behaviour. It has also been linked to high levels of testosterone. 
 
 ![Photo of a sketch incorporating covid-19 and social media usage.](assets/img/visuals-idbBOa-MQ-I-unsplash.jpg)
