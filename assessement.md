@@ -44,7 +44,9 @@ Using the marking rubric, I've assessed my own progress:
 | 2.2       |     |     |     |  o  |     |
 | 3.1       |     |     |     |  o  |     |
 
+I think I have effectively communicated my messages relating to the existential risk of COVID-19, personality types, and the influence these have on our digital identity, mental health and online presence. I used multiple visual aids to entice the reader, as well as support the points I was making. For example, bar graphs with data from studies I have spoken about. I opened with a hooking set of questions to create a starting point for the reader to think about for themselves. I also finished with a question-provoking statement for the reader – and so creating a cyclical structure. 
 
+I spent a lot of time researching my topic and finding research articles and academic papers to support my thesis statement; I think this is quite evident as my log demonstrates a clear commitment to this project and a consistency too. Following further guidance, I went back to my portfolio to refine my assignment and make any necessary adjustment. On the index file I sorted out all my references so that they were all in the same formatting and style (APA 7th). I also went back over my article to check spelling and grammar, and made minor tweaks (ie. covid-19 to COVID-19). Overall, I think it is a relatively good essay focusing on the relationship and connections between COVID-19 and individuals’ digital identities, and going into depth surrounding my research question. 
 
 ## Peer-assessment
 Another student in my group provided feedback on my work as follows: 
