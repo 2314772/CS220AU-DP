@@ -27,10 +27,7 @@ VR map produced by myself using PowerPoint.
 
 ## Existential Risks
 
--	Define 
--	Covid poses as a threat 
--	Why 
--	Pandemic disease – natural origin – unpredictable 
+![Graph of TikTok usage increasing because of covid-19.](assets/img/vrmappersonal.png)
 
 ## Personality Types
 
